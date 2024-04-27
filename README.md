@@ -1,8 +1,4 @@
 # All of the codes are from [https://github.com/DeepVoltaire/AutoAugment?tab=readme-ov-file]
-# 스마트팩토리캡스톤 과제 : 코드의 주석 + 프로젝트 이미지 데이터로 data augmentation 진행
-
-
-
 
 # AutoAugment - Learning Augmentation Policies from Data
 Unofficial implementation of the ImageNet, CIFAR10 and SVHN Augmentation Policies learned by [AutoAugment](https://arxiv.org/abs/1805.09501v1), described in this [Google AI Blogpost](https://ai.googleblog.com/2018/06/improving-deep-learning-performance.html).
