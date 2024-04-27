@@ -1,4 +1,4 @@
-# All of the codes are from [https://github.com/DeepVoltaire/AutoAugment?tab=readme-ov-file]
+All of the codes are from [https://github.com/DeepVoltaire/AutoAugment?tab=readme-ov-file]
 
 # AutoAugment - Learning Augmentation Policies from Data
 Unofficial implementation of the ImageNet, CIFAR10 and SVHN Augmentation Policies learned by [AutoAugment](https://arxiv.org/abs/1805.09501v1), described in this [Google AI Blogpost](https://ai.googleblog.com/2018/06/improving-deep-learning-performance.html).
